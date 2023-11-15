@@ -1,0 +1,67 @@
+.xyz{
+  display: flex;
+  
+}
+
+.abc{
+  margin-top: 5%;
+  
+  align-items: center;
+  display: flex;
+  text-align: center;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(31, 100, 122);
+    text-align: center;
+}
+
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: rgb(8, 50, 65);
+    color: white;
+  }
+
+  img{
+    width: 355px;
+    height: 600px;
+    
+}
+
+  p{
+    margin-top: 75px;
+  }
+  .edu{
+    display: flex;
+
+  }
+  h3{
+    margin-left:25px ;
+  }
+
+  .abc{
+    display: flex;
+  }
